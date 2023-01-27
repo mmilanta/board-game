@@ -1,0 +1,32 @@
+{
+    "soldier" : 
+    { 
+        "attack" : "d6",
+        "defence" : "d6"
+    },
+    "swardsman" : { 
+        "attack" : "d12",
+        "defence" : "d12"
+    },
+    "defender" : 
+    { 
+        "attack" : "d4",
+        "defence" : "d12"
+    },
+    "knight" : 
+    { 
+        "attack" : "d20",
+        "defence" : "d4"
+    },
+    "archer" : 
+    { 
+        "attack" : "d6",
+        "defence" : "d4"
+    },
+    "catapult" : 
+    { 
+        "attack" : "d20",
+        "defence" : "d1"
+    }
+
+}
