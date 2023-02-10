@@ -1,0 +1,6 @@
+unit_name,cost,attack,defense,movement,range
+warrior,1f1w,d6,d6,2,0
+archer,1f2w,d6,d4,2,2
+knight,3f3w,d12,d4,4,0
+defender,1f4w,d4,d12,1,0
+catapult,1f7w,d20,d0,1,3
