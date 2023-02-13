@@ -22,7 +22,7 @@ plt.show()"""
 
 def main():
     tk = Tk()
-
+    # comment
 
     def gen_w(width,height,freq,thrs,scale):
         board_wdw = Toplevel(tk)
